@@ -11,11 +11,19 @@ https://medium.com/@shakedwe2/from-sector-zero-to-herohttps-miro-medium-com-v2-r
 ## Tools:
 
 Sector_HEX_Dumper - Dumps any sector as HEX + ASCII
+
 Sector2_GPT_Partitions - Parses GPT partition entries from Sector 2
+
 NTFS_BOOT_SECTOR - Parses the NTFS Boot Sector — extracts MFT location
+
 MFT_RECORD_HEADER - Reads and displays MFT record headers
+
 MFT_Record_ATTR_HEADER - Walks and displays all attributes of an MFT record
+
 Show_DATA_RUN - Maps raw bytes onto ATTR_HEADER struct (Resident/Non-Resident verdict)
+
 Find_Sector_File - Scans MFT records between two sectors, searching by filename
+
 Read_DATA_Resident_File - Reads and dumps the content of a Resident `$DATA` attribut
+
 
