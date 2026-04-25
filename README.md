@@ -5,6 +5,8 @@ A collection of low-level C++ tools for exploring NTFS disk structures directly 
 Built as companion tools for the article:
 **"From Sector Zero to Hero / Below the API: Extracting Files from Raw Disk Without Windows Knowing"**
 
+https://medium.com/@shakedwe2/from-sector-zero-to-herohttps-miro-medium-com-v2-resize-fit-484-1-o82qispxrb9tx90jrdvw0a-png-e23965b4825c
+
 
 ## Tools:
 
